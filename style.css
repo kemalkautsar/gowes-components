@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Exo', sans-serif;
+    font-weight: 600;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a, a:hover {
+    color: #c92e00;
+}
+
+.navbar {
+    background: #c92e00;
+}
+
+.sidebar-nav {
+    padding-top:24px;
+    padding-bottom: 24px;
+}
+
+.sidebar-nav>ul {
+    list-style-type: none;
+}
+
+.navbar-logo>img {
+    height: 50px;
+    width: auto;
+}
+
+.content {
+
+}
+
+.content-main>.section {
+    padding-top: 24px;
+    padding-bottom: 48px;
+}
